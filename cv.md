@@ -1,7 +1,7 @@
 # Tamila Galaeva
 
 ## Contact Information
-- **Tel:** 
+- **Tel:** +19165450271
 - **Email:** [tamilagalaeva012@gmail.com](mailto:tamilagalaeva012@gmail.com)
 
 ## **Briefly About Myself**
