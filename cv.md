@@ -5,7 +5,7 @@
 - **Email:** [tamilagalaeva012@gmail.com](mailto:tamilagalaeva012@gmail.com)
 
 ## **Briefly About Myself**
-I am 34 years old. I have been living in the USA for the last 2 years. Programming has always been interesting to me. However, since I studied accounting and later ran a business, I had absolutely no time to dive into IT.
+I am 33 years old. I have been living in the USA for the last 2 years. Programming has always been interesting to me. However, since I studied accounting and later ran a business, I had absolutely no time to dive into IT.
 
 But after moving to the USA, I started seriously thinking about changing my profession. Fate brought me together with a very skilled programmer, who is currently helping me learn this field. I am studying Front-End development and have almost mastered the basic concepts of HTML and CSS.
 
