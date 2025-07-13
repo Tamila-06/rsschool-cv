@@ -25,6 +25,8 @@ Bachelor's degree in Accounting, **Saint Petersburg State University of Economic
 ## Courses
 - RS School (in process)
 
+## Code Example
+- [Bakery](https://tamila-06.github.io/bakery/)
 ## Languages
 - **English:** B1 level (speaking practice with native speakers every day)
 - **Russian:** Native speaker
