@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body{
+	padding-top: 20px;
+	padding-left: 20px;
+}
+ul{
+	list-style-type: none;
+
+}
+ul li::before{
+	content: "- ";
+	color: black;
+  font-weight: normal;
+}
+h2{
+	margin-top: 20px;
+}
